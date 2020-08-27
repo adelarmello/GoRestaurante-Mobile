@@ -2,11 +2,15 @@
 Esse é um desafio do Bootcamp GoStack da Rocketseat. Para praticar React Native junto com TypeScript para criar um pequeno app para pedidos de comida.<br/>
  Mais informaçes sobre o desafio acesse [aqui](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery)
  
+# Layout
 <p align="center">
-  <img src="./src/assets/logo.jpg"  width="800px" />
+  <img src="./src/assets/homeApp.png"  width="250px" height="536px" />
+  <img src="./src/assets/dashboardApp.png"  width="250px" height="536px" />
+  <img src="./src/assets/pedidosApp.png"  width="250px" height="536px"/>
+  <img src="./src/assets/favoritosApp.png"  width="250px" height="536px" />
+  <img src="./src/assets/detalheApp.png"  width="250px" height="536px" />
+  <img src="./src/assets/sucesso.png"  width="250px" height="536px" />
 </p>
-
-
 
 
 
@@ -35,10 +39,13 @@ Para obter esse projeto, siga os passos:
 ```bash
 # Clone o seu fork
 $ git clone url-do-seu-fork && cd GoRestaurantMobile
+
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
+
 # Faça o commit das suas alterações
 $ git commit -m 'minhas alterações'
+
 # Faça o push para a sua branch
 $ git push origin minha-branch
 ```
@@ -46,3 +53,7 @@ $ git push origin minha-branch
 Delete sua branch, se quiser, quando o merge da sua pull request for feito. <br />
 
 Autor: <a href="https://www.linkedin.com/in/adelar-de-mello-1948a1168/" target="blank">Adelar</a>.
+
+[typescript]: https://www.typescriptlang.org/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
